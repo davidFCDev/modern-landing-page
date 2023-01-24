@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './style';
-
+//All imports
 import {
   Navbar, 
   Hero, 
