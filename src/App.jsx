@@ -1,7 +1,6 @@
 import React from 'react';
 import styles from './style';
-import { app } from './firebase/index'
-//All imports
+
 import {
   Navbar, 
   Hero, 
